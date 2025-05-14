@@ -9,6 +9,7 @@
 
 🚀 Currently exploring:
 - Real-time LoRa communication
+- GPS for Tracking motor vehicle
 - Fuzzy logic for water quality systems
 - Radar systems and signal processing
 - Smart agriculture and telemedicine
