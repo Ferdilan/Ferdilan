@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Ferdilan Ramadhani 
 
 
-🎓 Telecommunication Engineering student at Politeknik, passionate about research and development in:
+🎓 Telecommunication Engineering student at Polytechnic, passionate about research and development in:
 - 📡 Internet of Things (IoT)
 - ⚙️ Embedded Systems & Microcontrollers
 - 🔬 Interdisciplinary & Multidisciplinary Research
