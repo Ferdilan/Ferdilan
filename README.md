@@ -4,13 +4,10 @@
 🎓 Telecommunication Engineering student at Polytechnic, passionate about research and development in:
 - 📡 Internet of Things (IoT)
 - ⚙️ Embedded Systems & Microcontrollers
-- 🔬 Interdisciplinary & Multidisciplinary Research
-- 📊 Smart Systems for Sustainable Solutions
 
 🚀 Currently exploring:
 - Real-time LoRa communication
 - GPS for Tracking motor vehicle
-- Fuzzy logic for water quality systems
 
 📚 My mission: To contribute to impactful research and open-source innovations that benefit both academia and society.
 
